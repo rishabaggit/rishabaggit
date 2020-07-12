@@ -1,12 +1,12 @@
 ### Hi, I'm Rishab Agarwal 👋
+- 🔭 I’m currently working on Natural Language Processing, Deep Learning and backend primarily.
+- 🌱 I’m currently learning cybersecurity and front-end.
 
 <!--
 **rishabaggit/rishabaggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on Natural Language Processing, Deep Learning and backend primarily.
- 🌱 I’m currently learning cybersecurity and front-end.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
