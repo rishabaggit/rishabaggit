@@ -1,5 +1,5 @@
 ### Hi, I'm Rishab Agarwal 👋
-- ⚡ I'm currently a third year undergraduate at IIT Kanpur majoring in Mathematics and Scientific Computing.
+- ⚡ I'm currently a final year undergraduate at IIT Kanpur majoring in Mathematics and Scientific Computing.
 - 🔭 I’m currently working on Natural Language Processing, Deep Learning, Computer Vision and backend primarily.
 - 🌱 I’m currently learning cybersecurity and front-end.
 - 👯 I’m looking to collaborate on Machine Learning/ Data Science related projects. I am also open for backend works.
